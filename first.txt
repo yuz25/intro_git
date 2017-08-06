@@ -2,3 +2,4 @@ Git
 ワークフロー
 /git add
 .git rm
+git status
